@@ -114,12 +114,16 @@ img{
   background: #fff;
   padding: 2.5rem;
 }
+.vantagens1{
+  padding: 20px 20px;
+}
 .vantagens-item{
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 1.25rem;
   padding: 10px 20px;
   border-left: 4px solid transparent;
+  
 }
 .vantagens-item:hover{
   border-color:#e21 ;
